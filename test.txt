@@ -1,7 +1,7 @@
 This is a test
-<<<<<<< HEAD
-<<<<<<< HEADsimulation
-=======
 simulation
 simulation4
->>>>>>> dev1
+simulation2
+simulation3
+main simulation
+
